@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">Learning web development</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Linux**
 
 - 📫 Reach me at **tanmayrewale232021@gmail.com**
 
