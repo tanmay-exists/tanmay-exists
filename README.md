@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm tanmay</h1>
-<h3 align="center">A passionate frontend web developer.</h3>
+<h3 align="center">Learning web dev.</h3>
 
 - Reach me at **tanmayrewale232021@gmail.com**
 
