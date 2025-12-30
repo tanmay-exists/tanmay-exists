@@ -6,5 +6,4 @@ I’m Tanmay, a full-stack web developer (MERN) passionate about building innova
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,docker,express,mongodb,git,github,postgres,tailwind,py,cpp,nextjs,js,linux,fastapi,redux&perline=8)](https://skillicons.dev)
 
-## Connect with Me
-tanmayrewale1011@gmail.com
+#### Mail: tanmayrewale1011@gmail.com
